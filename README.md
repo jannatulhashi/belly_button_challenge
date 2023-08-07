@@ -10,6 +10,7 @@ Creating an interactive dashboard to explore the Belly Button Biodiversity datas
 
 ## Instructions
 For this challenge, I'll complete the following steps:
+
 1: I'll use the D3 library to read in samples.json from the URL [(https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/v1.1/14-Interactive-Web-Visualizations/02-Homework/samples.json)].
 
 2: Then, I'll Create a horizontal bar chart with a dropdown menu to display the top 10 OTUs found in that individual.
